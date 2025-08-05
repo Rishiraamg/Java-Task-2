@@ -1,5 +1,6 @@
 import java.util.*;
-
+//STUDENT RECORD MANAGEMENT SYSTEM CREATED BY RISHIRAAM GOPINATH
+//BY CALLING METHODS FOR CRUD OPERATIONS ON THE STUDENT DATABASE
 class Student {
     int id;
     String name;
@@ -141,3 +142,4 @@ public class Task2 {
         }
     }
 }
+
